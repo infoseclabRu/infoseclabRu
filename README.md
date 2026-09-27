@@ -27,14 +27,6 @@ Our team combines deep offensive and defensive security expertise to help busine
 ## Competencies
 
 `Penetration Testing` `Red Teaming` `Web/Network/Cloud Security` `Active Directory` `Exploit Development` `Reverse Engineering` `Malware Analysis` `Social Engineering` `OSINT` `OT/SCADA` `LLM/AI Security` `Code Audit`
-
----
-
-## Certifications
-
-- **OSCP** — Offensive Security Certified Professional
-- **CEH** — Certified Ethical Hacker
-
 ---
 
 ## By the Numbers
